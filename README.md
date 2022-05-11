@@ -1,2 +1,4 @@
 # hello-world
-my first repository
+my first repository on github
+
+I love: Islam: Tech: Africa

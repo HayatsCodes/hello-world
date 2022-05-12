@@ -1,9 +1,9 @@
 // 1. API url
 const url = "https://jsonplaceholder.typicode.com/users"
 
-//2.Fetch users from the ApI url
+//2. Fetch users from the ApI url
 function fetchUsers(){
-    //2.1make use of the browser's fetch API
+    //2.1 make use of the browser's fetch API
      fetch (url)
      .then ((response)=>response.json())
      .then ((data) => {
